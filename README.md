@@ -6,7 +6,7 @@ Assignment 2: Design Database ERD.
 |---|---|
 | **Student** | (Muhammad Rizky) |
 | **NPM** | (2410010226) |
-| **Class** | (Muhammad Rizky) |
+| **Class** | (5C) |
 | **Phase** | P02: Design Database ERD |
 | **Status** | Done |
 | **Fork / branch** | https://github.com/rizkymhmd06/Tugas-1-PBO-2 / feature/design-database |
