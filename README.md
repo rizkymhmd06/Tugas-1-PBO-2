@@ -2,6 +2,8 @@
 
 Assignment 2: Design Database ERD.
 
+**Judul Proyek:** Aplikasi E-Commerce Sederhana
+
 | | |
 |---|---|
 | **Student** | Muhammad Rizky |
